@@ -1,0 +1,4 @@
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\FINACLE Extentions.dll
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\FINACLE Extentions.pdb
+C:\Support Store\Code Repo\FINACLE Extentions\obj\Debug\FINACLE Extentions.dll
+C:\Support Store\Code Repo\FINACLE Extentions\obj\Debug\FINACLE Extentions.pdb
